@@ -2,3 +2,4 @@ Hellow World!!!
 
 change 1:wi1=working directory no.1
 change 2:bug1 modified
+change 3:bug2 modified
